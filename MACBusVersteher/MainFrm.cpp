@@ -29,6 +29,8 @@ static UINT indicators[] =
 
 // CMainFrame construction/destruction
 
+//
+
 CMainFrame::CMainFrame()
 {
 	// TODO: add member initialization code here

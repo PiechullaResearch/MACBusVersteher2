@@ -7,6 +7,8 @@
 
 // WP20210205: Das ist wieder eine weitere Pseudo-Änderung zum Testen
 
+// WP20210206: First Stage, then Commit
+
 #include "stdafx.h"
 // SHARED_HANDLERS can be defined in an ATL project implementing preview, thumbnail
 // and search filter handlers and allows sharing of document code with that project.
